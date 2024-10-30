@@ -6,7 +6,7 @@ Oi me chamo Jerônimo, estou fazendo faculdade de Ciência da Computação(2022)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeronimo-noleto-91b251249/) 
 
 # 💻 Tech Stack:
-  ![js](https://skillicons.dev/icons?i=c,js,mysql,arduino)]
+  ![js](https://skillicons.dev/icons?i=c,js,mysql,arduino,node.js)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JeronimoNP&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
