@@ -3,7 +3,7 @@ Oi me chamo Jerônimo, estou fazendo faculdade de Ciência da Computação(2022)
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeronimo-noleto-91b251249/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeronimo-noleto-91b251249/) 
 
 # 💻 Tech Stack:
   ![js](https://skillicons.dev/icons?i=c,js,mysql,arduino,node.js)
