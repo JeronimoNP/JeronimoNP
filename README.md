@@ -84,6 +84,16 @@ Sistema multiempresa para gestão de frota de veículos, com autenticação e co
 
 ---
 
+
+
+### 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=JeronimoNP&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JeronimoNP&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeronimoNP&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
 <p align="center">
   <a href="mailto:familiadojeronimo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
