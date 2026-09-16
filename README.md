@@ -79,7 +79,7 @@ Sistema multiempresa para gestão de frota de veículos, com autenticação e co
 ### 🎓 Agora
 
 - 🔭 Trabalhando no TCC: **ia_precificacao**, módulo Odoo que usa a API do Gemini para sugerir preços
-- 📚 Estudando para o concurso da Dataprev, em paralelo ao aprimoramento em back-end
+- 📚 Estudando para aprimoramento em back-end
 - 🌱 Aprofundando conhecimento em Next.js e arquitetura de sistemas escaláveis
 
 ---
