@@ -101,6 +101,9 @@ Sistema multiempresa para gestão de frota de veículos, com autenticação e co
   <a href="https://github.com/JeronimoNP">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/jeronimo-noleto-91b251249/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
