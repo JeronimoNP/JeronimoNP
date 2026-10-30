@@ -106,6 +106,3 @@ Sistema multiempresa para gestão de frota de veículos, com autenticação e co
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeronimoNP&show_icons=true&theme=default&hide_title=true" />
-</p>
